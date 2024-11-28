@@ -1,0 +1,3 @@
+NLTK: 0.0897 seconds
+TextBlob: 0.4052 seconds
+spaCy: 4.9402 seconds
